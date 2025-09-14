@@ -1,5 +1,4 @@
 def double(x):
-  return x*3
+  return x*2
 
 print(double(5))
-  
